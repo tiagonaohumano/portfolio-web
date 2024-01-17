@@ -1,3 +1,25 @@
+.profile {
+  display: inline-block;
+}
+
+.name h1 {
+  text-align: center;
+}
+
+.bio {
+  display: inline-flex;
+}
+
+.profile-pic {
+  padding: 20px;
+}
+
+.description {
+  padding: 20px;
+}
+
+
+
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
@@ -29,3 +51,4 @@ h1 {
   .cozinhar {
     font-size: 18px;
   }
+
