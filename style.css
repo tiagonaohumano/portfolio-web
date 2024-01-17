@@ -58,3 +58,7 @@ em {
   text-align: center;
   background-color: antiquewhite;
 }
+
+.habilidades li:nth-child(odd) {
+  font-style: oblique;
+}
